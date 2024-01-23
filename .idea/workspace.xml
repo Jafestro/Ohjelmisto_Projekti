@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="" />
+    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava03/Asiakas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava03/Tehtavasarja1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava04/Jonotus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/PalveluPiste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava06/KeskiAika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2b85DQGCYLeLD9OQrjOqNMOY2cI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,14 +42,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Jonotus.executor": "Run",
+    "Application.KeskiAika.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Tehtavasarja1_3.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +80,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705583746388</updated>
+      <workItem from="1705583747440" duration="1331000" />
+      <workItem from="1705620382132" duration="58000" />
+      <workItem from="1705668699238" duration="401000" />
+      <workItem from="1705675045387" duration="711000" />
+      <workItem from="1705676830329" duration="1327000" />
+      <workItem from="1705772794751" duration="7700000" />
+      <workItem from="1705871334955" duration="847000" />
+      <workItem from="1705918568675" duration="4177000" />
+      <workItem from="1705994111376" duration="3589000" />
     </task>
     <servers />
   </component>
