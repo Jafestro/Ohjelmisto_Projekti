@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="Tasks">
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava03/IkaJarjestelma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Main.java" afterDir="false" />
+    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="Tehtava 3 ja 4">
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava05/TapahtumanTyyppi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -112,7 +112,7 @@
       <workItem from="1705994111376" duration="3589000" />
       <workItem from="1706034907617" duration="789000" />
       <workItem from="1706094479403" duration="2202000" />
-      <workItem from="1706132503200" duration="4337000" />
+      <workItem from="1706132503200" duration="6188000" />
     </task>
     <task id="LOCAL-00001" summary="Tasks">
       <option name="closed" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706035048725</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tehtava 3 ja 4">
+      <option name="closed" value="true" />
+      <created>1706174087229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706174087229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
+    <MESSAGE value="Tehtava 3 ja 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tehtava 3 ja 4" />
   </component>
 </project>

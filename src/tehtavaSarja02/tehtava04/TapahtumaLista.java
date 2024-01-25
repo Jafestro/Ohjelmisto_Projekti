@@ -13,17 +13,15 @@ public class TapahtumaLista {
 
     void lisaaTapahtuma(Tapahtuma t) {
         tapahtumat.add(t);
+        System.out.println("Tapahtuma lisätty");
     }
 
     void poistaTapahtuma() throws InterruptedException {
         Random random = new Random();
         Tapahtuma t = tapahtumat.poll();
         assert t != null;
-        if (t.getNimi().equals("A"))
-            Thread.sleep(random.nextInt(5000)+1000);
-        else
-            Thread.sleep(random.nextInt(10000) + 5000);
-        System.out.println(t.getNimi() + " asiakas " + " poistuu palvelista " + LocalTime.now());
+        Thread.sleep(t.getAika());
+        System.out.println("Asiakas " + t.getNimi() + " " + LocalTime.now());
         lisaaTapahtuma(new Tapahtuma());
     }
 }
