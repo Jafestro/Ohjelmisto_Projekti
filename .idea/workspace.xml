@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava03/Asiakas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava03/Tehtavasarja1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava04/Jonotus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/PalveluPiste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava06/KeskiAika.java" afterDir="false" />
+    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="Tasks">
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava03/IkaJarjestelma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IkaJarjestelma/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IkaJarjestelma.executor": "Run",
     "Application.Jonotus.executor": "Run",
     "Application.KeskiAika.executor": "Run",
     "Application.Main.executor": "Run",
@@ -65,6 +61,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\azebl\IdeaProjects\Ohjelmisto_Projekti\src\tehtavaSarja02\tehtava04" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IkaJarjestelma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tehtavaSarja02.tehtava03.IkaJarjestelma" />
+      <module name="Ohjelmisto_Projekti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tehtavaSarja02.tehtava03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IkaJarjestelma" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,10 +110,26 @@
       <workItem from="1705871334955" duration="847000" />
       <workItem from="1705918568675" duration="4177000" />
       <workItem from="1705994111376" duration="3589000" />
+      <workItem from="1706034907617" duration="789000" />
+      <workItem from="1706094479403" duration="2202000" />
+      <workItem from="1706132503200" duration="4337000" />
     </task>
+    <task id="LOCAL-00001" summary="Tasks">
+      <option name="closed" value="true" />
+      <created>1706035048725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706035048725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
   </component>
 </project>
