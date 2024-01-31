@@ -10,13 +10,13 @@ public class IkaJarjestelma {
         Scanner scanner = new Scanner(System.in);
         //Lahto data
         HashMap<Integer, Integer> ikat = new HashMap<>();
-        ikat.put(23,4);
-        ikat.put(20,7);
-        ikat.put(30,5);
-        ikat.put(25,9);
-        ikat.put(22,2);
+        ikat.put(23,7);
+        ikat.put(20,50);
+        ikat.put(30,13);
+        ikat.put(25,7);
+        ikat.put(22,100);
         ikat.put(37,1);
-        ikat.put(19,3);
+        ikat.put(19,46);
 
         int kokonaismaara = ikat.values().stream().mapToInt(Integer::intValue).sum();
 

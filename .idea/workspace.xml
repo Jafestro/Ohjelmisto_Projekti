@@ -4,9 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="Tehtava 3 ja 4">
-      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava05/TapahtumanTyyppi.java" afterDir="false" />
+    <list default="true" id="3fb16230-3f7e-48dd-a8a7-b24683eb65c8" name="Changes" comment="Tehtava 5">
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Bernoulli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Beta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/BetaPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Binomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Cauchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/ChiSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/ContinuousGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/DiscreteGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Distributions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Erlang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/FDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Gamma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Invgamma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/LogNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Logistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/MetaGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Negexp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/ParameterException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Pareto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Pascal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Poisson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/SeedGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Seedable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Tstudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Uniform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eduni/distributions/Weibull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava03/Kello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava04/Saapumisprosessi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava04/TapahtumaLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tehtavaSarja03/tehtava05/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/PalveluPiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja01/tehtava05/PalveluPiste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava03/IkaJarjestelma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava03/IkaJarjestelma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/Tapahtuma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tehtavaSarja02/tehtava04/TapahtumaLista.java" afterDir="false" />
     </list>
@@ -18,49 +55,57 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.1/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2b85DQGCYLeLD9OQrjOqNMOY2cI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IkaJarjestelma.executor": "Run",
-    "Application.Jonotus.executor": "Run",
-    "Application.KeskiAika.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Tehtavasarja1_3.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.IkaJarjestelma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jonotus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeskiAika.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Some.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tehtavasarja1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\azebl\IdeaProjects\Ohjelmisto_Projekti\src\tehtavaSarja02\tehtava04" />
@@ -112,7 +157,11 @@
       <workItem from="1705994111376" duration="3589000" />
       <workItem from="1706034907617" duration="789000" />
       <workItem from="1706094479403" duration="2202000" />
-      <workItem from="1706132503200" duration="6188000" />
+      <workItem from="1706132503200" duration="6453000" />
+      <workItem from="1706181137915" duration="5222000" />
+      <workItem from="1706215142817" duration="3000" />
+      <workItem from="1706272777441" duration="13000" />
+      <workItem from="1706645248292" duration="11973000" />
     </task>
     <task id="LOCAL-00001" summary="Tasks">
       <option name="closed" value="true" />
@@ -130,15 +179,25 @@
       <option name="project" value="LOCAL" />
       <updated>1706174087229</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tehtava 5">
+      <option name="closed" value="true" />
+      <created>1706176172619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706176172619</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Tasks" />
     <MESSAGE value="Tehtava 3 ja 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tehtava 3 ja 4" />
+    <MESSAGE value="Tehtava 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tehtava 5" />
   </component>
 </project>

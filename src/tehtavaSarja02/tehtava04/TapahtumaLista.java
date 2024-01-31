@@ -21,7 +21,7 @@ public class TapahtumaLista {
         Tapahtuma t = tapahtumat.poll();
         assert t != null;
         Thread.sleep(t.getAika());
-        System.out.println("Asiakas " + t.getNimi() + " " + LocalTime.now());
+        System.out.println("Asiakas " + t.getTyyppi() + " " + LocalTime.now());
         lisaaTapahtuma(new Tapahtuma());
     }
 }
